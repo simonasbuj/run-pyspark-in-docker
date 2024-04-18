@@ -1,0 +1,275 @@
+{"asctime": "02-19-2024 11:56:40", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 11:56:40", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0xffff9b053cd0>"}
+{"asctime": "02-19-2024 11:59:48", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 11:59:48", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0xffff81673cd0>"}
+{"asctime": "02-19-2024 12:00:03", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 12:00:03", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0xffffa78cbcd0>"}
+{"asctime": "02-19-2024 12:00:13", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 12:00:13", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0xffff9bd7bcd0>"}
+{"asctime": "02-19-2024 12:01:44", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 12:01:44", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0xffffb58295a0>"}
+{"asctime": "02-19-2024 12:01:46", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-19-2024 14:03:33", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 14:03:33", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x105667c40>"}
+{"asctime": "02-19-2024 14:03:36", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-19-2024 14:10:05", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 14:10:05", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x1227ed160>"}
+{"asctime": "02-19-2024 14:10:08", "levelname": "INFO", "name": "Loader from service.loader", "message": "Starting exporting to excel"}
+{"asctime": "02-19-2024 14:10:08", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-19-2024 14:11:58", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 14:11:58", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x118275160>"}
+{"asctime": "02-19-2024 14:12:00", "levelname": "INFO", "name": "Loader from service.loader", "message": "Starting exporting to excel"}
+{"asctime": "02-19-2024 14:12:38", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 14:12:38", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x122675160>"}
+{"asctime": "02-19-2024 14:12:40", "levelname": "INFO", "name": "Loader from service.loader", "message": "Starting exporting to excel"}
+{"asctime": "02-19-2024 14:12:54", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 14:12:54", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x11a999160>"}
+{"asctime": "02-19-2024 14:12:56", "levelname": "INFO", "name": "Loader from service.loader", "message": "Starting exporting to excel"}
+{"asctime": "02-19-2024 14:13:19", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 14:13:19", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x12b4f5160>"}
+{"asctime": "02-19-2024 14:13:22", "levelname": "INFO", "name": "Loader from service.loader", "message": "Starting exporting to excel"}
+{"asctime": "02-19-2024 14:13:22", "levelname": "INFO", "name": "Loader from service.loader", "message": "Finished exporting to excel"}
+{"asctime": "02-19-2024 14:13:22", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-19-2024 14:13:34", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 14:13:34", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x1252f5160>"}
+{"asctime": "02-19-2024 14:13:36", "levelname": "INFO", "name": "Loader from service.loader", "message": "Starting exporting to excel"}
+{"asctime": "02-19-2024 14:13:49", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 14:13:49", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x127169160>"}
+{"asctime": "02-19-2024 14:13:51", "levelname": "INFO", "name": "Loader from service.loader", "message": "Starting exporting to excel"}
+{"asctime": "02-19-2024 14:13:52", "levelname": "INFO", "name": "Loader from service.loader", "message": "Finished exporting to excel"}
+{"asctime": "02-19-2024 14:13:52", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-19-2024 14:15:06", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 14:15:06", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x117ea9160>"}
+{"asctime": "02-19-2024 14:15:08", "levelname": "INFO", "name": "Loader from service.loader", "message": "Starting exporting to excel"}
+{"asctime": "02-19-2024 15:35:46", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 15:35:46", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x1211f1160>"}
+{"asctime": "02-19-2024 15:35:48", "levelname": "INFO", "name": "Loader from service.loader", "message": "Starting exporting to excel"}
+{"asctime": "02-19-2024 13:37:05", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 13:37:05", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0xffffa467ed40>"}
+{"asctime": "02-19-2024 13:37:07", "levelname": "INFO", "name": "Loader from service.loader", "message": "Starting exporting to excel"}
+{"asctime": "02-19-2024 13:38:56", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 13:38:56", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0xffff847bad40>"}
+{"asctime": "02-19-2024 13:38:59", "levelname": "INFO", "name": "Loader from service.loader", "message": "Starting exporting to excel"}
+{"asctime": "02-19-2024 13:38:59", "levelname": "INFO", "name": "Loader from service.loader", "message": "Finished exporting to excel"}
+{"asctime": "02-19-2024 13:38:59", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-19-2024 15:40:39", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 15:40:39", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x11a21c190>"}
+{"asctime": "02-19-2024 15:43:11", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 15:43:11", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x1227941c0>"}
+{"asctime": "02-19-2024 15:43:41", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 15:43:41", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x117f181c0>"}
+{"asctime": "02-19-2024 13:45:18", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 13:45:18", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0xffff868dad40>"}
+{"asctime": "02-19-2024 13:47:19", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 13:47:19", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0xffff985cad40>"}
+{"asctime": "02-19-2024 13:47:22", "levelname": "INFO", "name": "Loader from service.loader", "message": "Starting exporting to excel"}
+{"asctime": "02-19-2024 13:47:22", "levelname": "INFO", "name": "Loader from service.loader", "message": "Finished exporting to excel"}
+{"asctime": "02-19-2024 13:47:22", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-19-2024 13:47:59", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 13:47:59", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0xffffab092d40>"}
+{"asctime": "02-19-2024 13:48:01", "levelname": "INFO", "name": "Loader from service.loader", "message": "Starting exporting to excel"}
+{"asctime": "02-19-2024 13:48:01", "levelname": "INFO", "name": "Loader from service.loader", "message": "Finished exporting to excel"}
+{"asctime": "02-19-2024 13:48:01", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-19-2024 15:56:17", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 15:56:17", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x1189cc340>"}
+{"asctime": "02-19-2024 15:56:19", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-19-2024 15:58:56", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 15:58:56", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x1191f4370>"}
+{"asctime": "02-19-2024 15:58:58", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-19-2024 15:59:19", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 15:59:19", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x13eccc370>"}
+{"asctime": "02-19-2024 15:59:21", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-19-2024 15:59:51", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 15:59:51", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x122ae0370>"}
+{"asctime": "02-19-2024 15:59:53", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-19-2024 16:11:52", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 16:11:52", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x117c68340>"}
+{"asctime": "02-19-2024 16:11:54", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-19-2024 16:12:43", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 16:12:43", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x117fc0340>"}
+{"asctime": "02-19-2024 16:12:45", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-19-2024 16:13:23", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 16:13:23", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x118354370>"}
+{"asctime": "02-19-2024 16:13:25", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-19-2024 16:15:01", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 16:15:01", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x116d48370>"}
+{"asctime": "02-19-2024 16:15:03", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-19-2024 16:18:14", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 16:18:14", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x117594340>"}
+{"asctime": "02-19-2024 16:18:17", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-19-2024 16:18:17", "levelname": "INFO", "name": "Loader from service.loader", "message": "FINISHED LOADING TO POSTGRES"}
+{"asctime": "02-19-2024 16:18:17", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-19-2024 16:19:42", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 16:19:42", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x11a3b4370>"}
+{"asctime": "02-19-2024 16:19:44", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-19-2024 16:19:44", "levelname": "INFO", "name": "Loader from service.loader", "message": "FINISHED LOADING TO POSTGRES"}
+{"asctime": "02-19-2024 16:19:44", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-19-2024 16:21:30", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 16:21:30", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x13e864370>"}
+{"asctime": "02-19-2024 16:21:32", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-19-2024 16:21:32", "levelname": "INFO", "name": "Loader from service.loader", "message": "FINISHED LOADING TO POSTGRES"}
+{"asctime": "02-19-2024 16:21:32", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-19-2024 16:22:30", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 16:22:30", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x11a8b4370>"}
+{"asctime": "02-19-2024 16:22:32", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-19-2024 16:22:32", "levelname": "INFO", "name": "Loader from service.loader", "message": "FINISHED LOADING TO POSTGRES"}
+{"asctime": "02-19-2024 16:22:32", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-19-2024 16:22:44", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 16:22:44", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x11c5cc370>"}
+{"asctime": "02-19-2024 16:22:46", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-19-2024 16:22:46", "levelname": "INFO", "name": "Loader from service.loader", "message": "FINISHED LOADING TO POSTGRES"}
+{"asctime": "02-19-2024 16:22:46", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-19-2024 16:23:24", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 16:23:24", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x13f068370>"}
+{"asctime": "02-19-2024 16:23:26", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-19-2024 16:23:34", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 16:23:34", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x11fc58370>"}
+{"asctime": "02-19-2024 16:23:36", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-19-2024 16:24:14", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 16:24:14", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x11701c340>"}
+{"asctime": "02-19-2024 16:24:16", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-19-2024 16:24:29", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 16:24:29", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x132dd4340>"}
+{"asctime": "02-19-2024 16:24:31", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-19-2024 16:24:50", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 16:24:50", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x116dc0340>"}
+{"asctime": "02-19-2024 16:24:52", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-19-2024 16:24:53", "levelname": "INFO", "name": "Loader from service.loader", "message": "FINISHED LOADING TO POSTGRES"}
+{"asctime": "02-19-2024 16:24:53", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-19-2024 16:27:44", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 16:27:44", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x12acd8340>"}
+{"asctime": "02-19-2024 16:27:47", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-19-2024 16:28:09", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 16:28:09", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x131619340>"}
+{"asctime": "02-19-2024 16:28:11", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-19-2024 16:28:24", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 16:28:24", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x1187c8340>"}
+{"asctime": "02-19-2024 16:28:26", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-19-2024 16:28:27", "levelname": "INFO", "name": "Loader from service.loader", "message": "FINISHED LOADING TO POSTGRES"}
+{"asctime": "02-19-2024 16:28:27", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-19-2024 16:28:48", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 16:28:48", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x11e58c340>"}
+{"asctime": "02-19-2024 16:28:50", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-19-2024 16:28:51", "levelname": "INFO", "name": "Loader from service.loader", "message": "FINISHED LOADING TO POSTGRES"}
+{"asctime": "02-19-2024 16:28:51", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-19-2024 16:29:10", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 16:29:10", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x12f874340>"}
+{"asctime": "02-19-2024 16:29:12", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-19-2024 16:29:12", "levelname": "INFO", "name": "Loader from service.loader", "message": "FINISHED LOADING TO POSTGRES"}
+{"asctime": "02-19-2024 16:29:12", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-19-2024 16:30:07", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 16:30:07", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x12f198340>"}
+{"asctime": "02-19-2024 16:30:09", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-19-2024 16:30:10", "levelname": "INFO", "name": "Loader from service.loader", "message": "FINISHED LOADING TO POSTGRES"}
+{"asctime": "02-19-2024 16:30:10", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-19-2024 16:36:14", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-19-2024 16:36:14", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x1176e1340>"}
+{"asctime": "02-19-2024 16:36:16", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-19-2024 16:36:17", "levelname": "INFO", "name": "Loader from service.loader", "message": "FINISHED LOADING TO POSTGRES"}
+{"asctime": "02-19-2024 16:36:17", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-20-2024 07:37:22", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-20-2024 07:37:22", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x117908340>"}
+{"asctime": "02-20-2024 07:37:25", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 07:37:25", "levelname": "INFO", "name": "Loader from service.loader", "message": "FINISHED LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 07:37:25", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-20-2024 07:37:36", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-20-2024 07:37:36", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x13654c340>"}
+{"asctime": "02-20-2024 07:37:38", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 07:37:38", "levelname": "INFO", "name": "Loader from service.loader", "message": "FINISHED LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 07:37:38", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-20-2024 05:39:14", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-20-2024 05:39:14", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0xffffb3eb9690>"}
+{"asctime": "02-20-2024 05:39:16", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 05:43:27", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-20-2024 05:43:27", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0xffff7fb72cb0>"}
+{"asctime": "02-20-2024 05:43:29", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 05:45:46", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-20-2024 05:45:46", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0xffff7928acb0>"}
+{"asctime": "02-20-2024 05:45:48", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 07:46:09", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-20-2024 07:46:09", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x11ff18370>"}
+{"asctime": "02-20-2024 07:46:11", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 07:46:11", "levelname": "INFO", "name": "Loader from service.loader", "message": "FINISHED LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 07:46:11", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-20-2024 07:46:23", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-20-2024 07:46:23", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x12054e370>"}
+{"asctime": "02-20-2024 07:46:24", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 07:46:25", "levelname": "INFO", "name": "Loader from service.loader", "message": "FINISHED LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 07:46:25", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-20-2024 07:46:37", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-20-2024 07:46:37", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x11f635370>"}
+{"asctime": "02-20-2024 07:46:39", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 07:46:40", "levelname": "INFO", "name": "Loader from service.loader", "message": "FINISHED LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 07:46:40", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-20-2024 05:48:11", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-20-2024 05:48:11", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0xffff84f5d660>"}
+{"asctime": "02-20-2024 05:48:13", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 07:52:27", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-20-2024 07:52:27", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x134b20370>"}
+{"asctime": "02-20-2024 07:52:29", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 07:52:40", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-20-2024 07:52:40", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x122234370>"}
+{"asctime": "02-20-2024 07:52:42", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 07:52:43", "levelname": "INFO", "name": "Loader from service.loader", "message": "FINISHED LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 07:52:43", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-20-2024 06:05:18", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-20-2024 06:05:18", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0xffff8d249660>"}
+{"asctime": "02-20-2024 06:05:20", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 06:17:53", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-20-2024 06:17:53", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0xffff9ce65690>"}
+{"asctime": "02-20-2024 06:17:55", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 06:19:53", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-20-2024 06:19:53", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0xffff837d9690>"}
+{"asctime": "02-20-2024 06:19:55", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 06:19:56", "levelname": "INFO", "name": "Loader from service.loader", "message": "FINISHED LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 06:19:56", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-20-2024 06:20:48", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-20-2024 06:20:48", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0xffffbb879690>"}
+{"asctime": "02-20-2024 06:20:50", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 06:20:50", "levelname": "INFO", "name": "Loader from service.loader", "message": "FINISHED LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 06:20:50", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-20-2024 08:22:29", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-20-2024 08:22:29", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0x135055370>"}
+{"asctime": "02-20-2024 08:22:31", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 06:25:29", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-20-2024 06:25:29", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0xffffae93d690>"}
+{"asctime": "02-20-2024 06:25:31", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 06:25:31", "levelname": "INFO", "name": "Loader from service.loader", "message": "FINISHED LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 06:25:31", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-20-2024 06:28:28", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-20-2024 06:28:28", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0xffffa52ad690>"}
+{"asctime": "02-20-2024 06:28:30", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 06:28:30", "levelname": "INFO", "name": "Loader from service.loader", "message": "FINISHED LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 06:28:30", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-20-2024 07:01:12", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-20-2024 07:01:12", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0xffff80f65690>"}
+{"asctime": "02-20-2024 07:01:14", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 07:02:40", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-20-2024 07:02:40", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0xffffb1481690>"}
+{"asctime": "02-20-2024 07:02:42", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 07:05:47", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-20-2024 07:05:47", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0xffff85349690>"}
+{"asctime": "02-20-2024 07:05:49", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 07:05:49", "levelname": "INFO", "name": "Loader from service.loader", "message": "FINISHED LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 07:05:49", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-20-2024 07:06:50", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-20-2024 07:06:50", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0xffffa5221690>"}
+{"asctime": "02-20-2024 07:06:52", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 07:06:52", "levelname": "INFO", "name": "Loader from service.loader", "message": "FINISHED LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 07:06:52", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-20-2024 07:10:03", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-20-2024 07:10:03", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0xffff9f709690>"}
+{"asctime": "02-20-2024 07:10:06", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 07:11:48", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-20-2024 07:11:48", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0xffffb3eed690>"}
+{"asctime": "02-20-2024 07:11:50", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 07:13:32", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-20-2024 07:13:32", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0xffffa817d690>"}
+{"asctime": "02-20-2024 07:13:34", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 07:13:34", "levelname": "INFO", "name": "Loader from service.loader", "message": "FINISHED LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 07:13:34", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
+{"asctime": "02-20-2024 07:13:59", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING"}
+{"asctime": "02-20-2024 07:13:59", "levelname": "INFO", "name": "Loader from service.loader", "message": "<pyspark.sql.session.SparkSession object at 0xffffaa95d690>"}
+{"asctime": "02-20-2024 07:14:01", "levelname": "INFO", "name": "Loader from service.loader", "message": "STARTING LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 07:14:01", "levelname": "INFO", "name": "Loader from service.loader", "message": "FINISHED LOADING TO POSTGRES"}
+{"asctime": "02-20-2024 07:14:01", "levelname": "INFO", "name": "Loader from service.loader", "message": "LOADING FINISHED. sb"}
